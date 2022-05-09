@@ -16,9 +16,6 @@
    
 }
 
-body {
-    font-size: 25px;
-}
 
 img{
     width: 100%;
@@ -121,13 +118,13 @@ img{
 }
 
 .container_marca .explicacion p{
-    font-size: 1.3em;
+    font-size: 3em;
     font-weight: 400;
 
 }
 
 .container_marca .logo{
-    width: 400px;
+    width: 500px;
     align-self: center;
 }
 
