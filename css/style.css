@@ -42,7 +42,7 @@ img{
 
 /**Logo navegador**/
 .navegador .logo{
-    width: 120px;
+    width: 150px;
     height: auto;
 }    
 
@@ -112,19 +112,19 @@ img{
 
 .container_marca .explicacion h1{
     color: var(--color__cuarto);
-    font-size: 4em;
+    font-size: 6em;
     margin-bottom: 1em;
     font-weight: 900;
 }
 
 .container_marca .explicacion p{
-    font-size: 1.3em;
+    font-size: 2em;
     font-weight: 400;
 
 }
 
 .container_marca .logo{
-    width: 350px;
+    width: 400px;
     align-self: center;
 }
 
