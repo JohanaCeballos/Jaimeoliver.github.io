@@ -42,7 +42,7 @@ img{
 
 /**Logo navegador**/
 .navegador .logo{
-    width: 150px;
+    width: 160px;
     height: auto;
 }    
 
@@ -58,7 +58,7 @@ img{
 
 .navegador .item a{
     color: var(--color__primario);
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
 
 .navegador .item a:hover{
@@ -81,7 +81,7 @@ img{
     border-radius: 40px;
     padding: 0.5em 1em;
     color: var(--color__secundario);
-    font-size: 1.2em;
+    font-size: 1.5em;
 }
 
 
